@@ -1,0 +1,5 @@
+require('./Coach')
+require('./Country')
+require('./Selection')
+require('./Team')
+require('./Player')
