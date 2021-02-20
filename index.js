@@ -1,6 +1,6 @@
 const app = require('./server')
 const sequelize = require('./db');
-// PUERTO
+// PORT
 const PORT = process.env.PORT || 3050
 //ROUTES
 require("./src/routes/routes")(app);

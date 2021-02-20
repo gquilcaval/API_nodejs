@@ -1,5 +1,5 @@
 
-// ------ IMPORT servidor
+// ------ IMPORT server
 const express = require('express');
 
 //import models
